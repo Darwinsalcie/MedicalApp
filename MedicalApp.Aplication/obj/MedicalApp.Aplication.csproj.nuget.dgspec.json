@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Aplication\\MedicalApp.Aplication.csproj": {}
+    "C:\\Users\\darwi\\OneDrive\\Documents\\Repos\\Programación WEB I\\MedicalApp\\MedicalApp.Aplication\\MedicalApp.Aplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Aplication\\MedicalApp.Aplication.csproj": {
+    "C:\\Users\\darwi\\OneDrive\\Documents\\Repos\\Programación WEB I\\MedicalApp\\MedicalApp.Aplication\\MedicalApp.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Aplication\\MedicalApp.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\darwi\\OneDrive\\Documents\\Repos\\Programación WEB I\\MedicalApp\\MedicalApp.Aplication\\MedicalApp.Aplication.csproj",
         "projectName": "MedicalApp.Aplication",
-        "projectPath": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Aplication\\MedicalApp.Aplication.csproj",
+        "projectPath": "C:\\Users\\darwi\\OneDrive\\Documents\\Repos\\Programación WEB I\\MedicalApp\\MedicalApp.Aplication\\MedicalApp.Aplication.csproj",
         "packagesPath": "C:\\Users\\darwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Aplication\\obj\\",
+        "outputPath": "C:\\Users\\darwi\\OneDrive\\Documents\\Repos\\Programación WEB I\\MedicalApp\\MedicalApp.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
