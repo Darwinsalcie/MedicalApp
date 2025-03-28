@@ -1,0 +1,13 @@
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\MedicalApp.Domain.csproj.AssemblyReference.cache
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\MedicalApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\MedicalApp.Domain.AssemblyInfoInputs.cache
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\MedicalApp.Domain.AssemblyInfo.cs
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\MedicalApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\MedicalApp.Domain.sourcelink.json
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\bin\Debug\net8.0\MedicalApp.Domain.deps.json
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\bin\Debug\net8.0\MedicalApp.Domain.dll
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\bin\Debug\net8.0\MedicalApp.Domain.pdb
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\MedicalApp.Domain.dll
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\refint\MedicalApp.Domain.dll
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\MedicalApp.Domain.pdb
+C:\Users\darwi\OneDrive\Documents\Repos\Programación WEB I\MedicalApp\MedicalApp.Domain\obj\Debug\net8.0\ref\MedicalApp.Domain.dll
