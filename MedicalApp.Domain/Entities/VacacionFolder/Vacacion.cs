@@ -1,6 +1,4 @@
-﻿
-
-namespace MedicalApp.Domain.Entities
+﻿namespace MedicalApp.Domain.Entities.VacacionFolder
 {
     public class Vacacion
     {
@@ -12,9 +10,5 @@ namespace MedicalApp.Domain.Entities
         public int TrabajadorId { get; set; }
     }
 
-    public enum EstadoVacacion
-    {
-        Planificada,
-        Disfrutada
-    }
+
 }

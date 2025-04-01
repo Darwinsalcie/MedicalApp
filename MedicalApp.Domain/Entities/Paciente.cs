@@ -1,5 +1,5 @@
 ﻿using MedicalApp.Domain.BaseEntity;
-
+using MedicalApp.Domain.Entities.MedicoFolder;
 
 namespace MedicalApp.Domain.Entities
 {

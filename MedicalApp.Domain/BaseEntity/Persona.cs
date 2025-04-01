@@ -12,5 +12,5 @@ public abstract class Persona
     public string Provincia { get; set; }
     public string CodigoPostal { get; set; }
     public string NIF { get; set; }
-    public string NumeroSeguridadSocial { get; set; }
+    public string Cedula { get; set; }
 }

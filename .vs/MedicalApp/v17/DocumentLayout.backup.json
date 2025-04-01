@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0C33C2-4A32-4C80-AF84-A81377D843A5}|MedicalApp.Infraestructure\\MedicalApp.Infraestructure.csproj|c:\\users\\darwi\\source\\repos\\programacion web 1\\medicalapp\\medicalapp.infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0C33C2-4A32-4C80-AF84-A81377D843A5}|MedicalApp.Infraestructure\\MedicalApp.Infraestructure.csproj|solutionrelative:medicalapp.infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{008C81ED-C30D-43C0-85D0-8151DCA846E4}|MedicalApp.Aplication\\MedicalApp.Aplication.csproj|c:\\users\\darwi\\source\\repos\\programacion web 1\\medicalapp\\medicalapp.aplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{008C81ED-C30D-43C0-85D0-8151DCA846E4}|MedicalApp.Aplication\\MedicalApp.Aplication.csproj|solutionrelative:medicalapp.aplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2B4F645-6BB6-4D07-9B0B-2D170D5F28FC}|MedicalApp.Domain\\MedicalApp.Domain.csproj|c:\\users\\darwi\\source\\repos\\programacion web 1\\medicalapp\\medicalapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B4F645-6BB6-4D07-9B0B-2D170D5F28FC}|MedicalApp.Domain\\MedicalApp.Domain.csproj|solutionrelative:medicalapp.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\darwi\\OneDrive\\Documents\\Repos\\Programacion_WEB_I\\MedicalApp\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,45 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Infraestructure\\Class1.cs",
-              "RelativeDocumentMoniker": "MedicalApp.Infraestructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Infraestructure\\Class1.cs",
-              "RelativeToolTip": "MedicalApp.Infraestructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T02:47:24.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Aplication\\Class1.cs",
-              "RelativeDocumentMoniker": "MedicalApp.Aplication\\Class1.cs",
-              "ToolTip": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Aplication\\Class1.cs",
-              "RelativeToolTip": "MedicalApp.Aplication\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T02:46:49.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "MedicalApp.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\darwi\\source\\repos\\Programacion WEB 1\\MedicalApp\\MedicalApp.Domain\\Class1.cs",
-              "RelativeToolTip": "MedicalApp.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T02:46:16.138Z",
-              "EditorCaption": ""
             }
           ]
         },
