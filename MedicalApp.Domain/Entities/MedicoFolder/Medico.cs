@@ -1,7 +1,7 @@
 ﻿using MedicalApp.Domain.BaseEntity;
 
 
-namespace MedicalApp.Domain.Entities
+namespace MedicalApp.Domain.Entities.MedicoFolder
 {
     public class Medico : Trabajador
     {
@@ -13,10 +13,4 @@ namespace MedicalApp.Domain.Entities
         public List<Sustitucion> Sustituciones { get; set; } = new List<Sustitucion>();
     }
 
-    public enum TipoMedico
-    {
-        Titular,
-        Interino,
-        Sustituto
-    }
 }
