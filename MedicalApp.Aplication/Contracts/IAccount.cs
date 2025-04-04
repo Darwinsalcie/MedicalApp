@@ -14,5 +14,8 @@ namespace MedicalApp.Aplication.Contracts
         Task<LoginResponse> LoginAsync(LoginDTO model);
         Task<LoginResponse> RefreshTokenAsync(RefreshTokenDTO model);
         Task<IEnumerable<GetRoleDTO>> GetRoleAsync();
+        Task<IEnumerable<GetUserWithRolesReponseDTO>> GetUserWithRolesAsync();
+        Task<GeneralResponse> ChangeRoleAsync(ChangeUserRoleRequestDTO model);
+
     }
 }

@@ -1,4 +1,4 @@
-﻿
+﻿using MedicalApp.Aplication.DTOs.Request.BaseEntity;
 
 namespace MedicalApp.Aplication.DTOs.Request.BaseRequestDTO.AuditRequestDTO
 {
