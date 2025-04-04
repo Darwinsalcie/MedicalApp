@@ -11,6 +11,9 @@ namespace MedicalApp.Infraestructure.Repos
 {
     public class HorarioConsultaRepository(AppDbContext context) : IHorarioConsulta
     {
+        /*
+         implementar el repositorio de HorarioConsulta
+         */
 
         public Task<GeneralResponse> AddHorarioConsulta(CreateHorarioConsultaRequestDTO model)
         {
