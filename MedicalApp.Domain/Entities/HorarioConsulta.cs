@@ -8,7 +8,9 @@ namespace MedicalApp.Domain.Entities
         public DayOfWeek DiaSemana { get; set; }
         public TimeSpan HoraInicio { get; set; }
         public TimeSpan HoraFin { get; set; }
+
         // Clave foránea al médico
+        //Implementar con una propiedad de navegación
         public int MedicoId { get; set; }
     }
 }
